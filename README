@@ -1,0 +1,17 @@
+
+Just some small scripts which I uses to download television from dr.dk
+
+Usage:
+
+# get an index of all the programmes aviable
+$ ./dr-index.rb
+
+# explore the index
+$ cd dr
+$ ls
+$ bonderoeven
+
+# download some episodes
+$ ../../dr-get.rb bonderoeven_2012*
+
+
